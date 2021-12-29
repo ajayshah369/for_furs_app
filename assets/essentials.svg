@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="120"
+   height="120"
+   viewBox="0 0 120 120"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (1:1.1+202109281949+c3084ef5ed)"
+   sodipodi:docname="essentials.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="5.8916667"
+     inkscape:cx="60.084866"
+     inkscape:cy="60.084866"
+     inkscape:window-width="1920"
+     inkscape:window-height="1020"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g880"
+       style="stroke:#ffffff;fill:none"
+       transform="matrix(5.50002,0,0,5.454534,5,0)">
+      <path
+         d="M 4,1 1,5 v 14 c 0,0.5304 0.21071,1.0391 0.58579,1.4142 C 1.96086,20.7893 2.46957,21 3,21 h 14 c 0.5304,0 1.0391,-0.2107 1.4142,-0.5858 C 18.7893,20.0391 19,19.5304 19,19 V 5 L 16,1 Z"
+         stroke="#F1F1F1"
+         stroke-width="2"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path2"
+         style="fill:none;stroke:#ffffff" />
+      <path
+         d="M 1,5.5 H 19"
+         stroke="#F1F1F1"
+         stroke-width="2"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path2-3"
+         style="fill:none;stroke:#ffffff" />
+      <path
+         d="m 14.000001,8.5 c 0,1.06087 -0.42143,2.07828 -1.171571,2.82843 C 12.07828,12.07857 11.06087,12.5 10,12.5 8.93913,12.5 7.92172,12.07857 7.17157,11.32843 6.42143,10.57828 6,9.56087 6,8.5"
+         stroke="#F1F1F1"
+         stroke-width="2"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path2-6"
+         style="fill:none;stroke:#ffffff" />
+    </g>
+  </g>
+</svg>
