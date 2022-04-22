@@ -3,8 +3,6 @@ import 'package:flutter/services.dart';
 import 'package:provider/provider.dart';
 import 'package:flutter_phoenix/flutter_phoenix.dart';
 import 'package:flutter_stripe/flutter_stripe.dart';
-import 'package:firebase_core/firebase_core.dart';
-import 'firebase_options.dart';
 
 import './utilities/dio_instance.dart';
 import './utilities/custom_color.dart';
@@ -31,9 +29,7 @@ void main() async {
       'pk_test_51K124DSGRtTblIP3yipg3syPIVndjpn9wKInmaOIOSaknPhehcROjL91dwNLlNB7IpnBel1fl4ovrrTeJr2ER3cF00cW6L57TT';
   Stripe.merchantIdentifier = 'acct_1K124DSGRtTblIP3';
   await Stripe.instance.applySettings();
-  await Firebase.initializeApp(
-    options: DefaultFirebaseOptions.currentPlatform,
-  );
+
   setDioInterceptors();
   SystemChrome.setPreferredOrientations([DeviceOrientation.portraitUp]);
   runApp(Phoenix(child: const MyApp()));
